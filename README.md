@@ -1,2 +1,3 @@
 # DiceGame
-JS exercise
+
+``Following the tutorial ``
