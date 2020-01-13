@@ -1,3 +1,2 @@
 # DiceGame
 
-``Following the tutorial ``
